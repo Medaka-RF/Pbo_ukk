@@ -15,7 +15,7 @@ namespace Pbo_ukk
         public HomeForm(string fullnama)
         {
             InitializeComponent();
-            lbnama.Text = "Selamat Datang," + fullnama;
+            lbnama.Text = "Selamat Datang Ketua," + fullnama;
         }
 
         private void HomeForm_Load(object sender, EventArgs e)
